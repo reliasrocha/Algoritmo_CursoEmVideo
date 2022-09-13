@@ -1,0 +1,18 @@
+*-*-*-*-*-*-*-*-*
+
+identificadores:
+
+1. Deve começar com uma letra
+2. Os próximos podem ser letras ou números
+3. Não pode utilizar nenhum símblo, exceto _
+4. Não pode conter espaços em branco
+5. Não pode conter letras com acentos
+6. Não pode ser uma palavra reservada
+
+tipos primitivos:
+variáveis=> inteiro, real, caractere & lógico
+ex: nota1(identificador): inteiro(tipo)
+
+atribuição:
+atribuir algo para a variável. usa-se o sinal <-
+ex: msg <- "Olá, Mundo!"
